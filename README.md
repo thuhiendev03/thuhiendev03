@@ -1,5 +1,5 @@
-## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=FF69B4&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Nguyen+Thi+Thu+Hien;Nice+to+Meet+You+!!!.+%F0%9F%98%84;Have+a+nice+day!!!...)](https://github.com/thuhiendev03)
+![Demo Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 # 💫About Me :
 I’m currently a Student at Ho Chi Minh City University of Industry and Trade (HUIT)
 
@@ -25,7 +25,7 @@ I’m currently a Student at Ho Chi Minh City University of Industry and Trade (
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=thuhiendev03&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thuhiendev03&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thuhiendev03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thuhiendev03&icon=0&color=0)](https://visitcount.itsvg.in)
