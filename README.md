@@ -22,9 +22,9 @@ I’m currently a Student at Ho Chi Minh City University of Industry and Trade (
 >  <a href="./Certificate/Google Project Manager.png">
 >    <img height="100px" width="150px" src="./Certificate/Google Project Manager.png" alt=""/>
 > </a>
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=thuhiendev03&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thuhiendev03&theme=radical&hide_border=false)<br/>
+# 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=thuhiendev03&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thuhiendev03&theme=radical&hide_border=false" width="100%">
 
 
 ---
